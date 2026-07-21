@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <title>Tini's Mac n Cheese</title>
+        <meta charset="UTF-8">
+
+    </head>
+
+    <body>
+        <h1>A Recipe by Chef Tini</h1>
+
+        <p>Tini's mac n cheese started trending during the thanksgiving season in 2023. Something that Tini does differently is using cavatappi pasta, instead of the commonly used elbow pasta. Tini says this provides for a better, creamier bite because of the cheese going through the noodles.</p>
+        
+        <h3>Ingredients</h3>
+        <h4>Pasta and Cheese</h4>
+        <ul>
+            <li>1 lb. Cavatappi pasta</li>
+            <li>16 oz. grated Mozzarella cheese</li>
+            <li>16 oz. grated Colby Jack cheese</li>
+            <li>8 oz. grated Sharp Cheddar cheese</li>
+        </ul>
+
+        <h4>Roux and Sauce</h4>
+        <ul>
+          <li>3 tbsp. butter</li>
+          <li>3 tbsp. all purpose flour</li>
+          <li>1(12 oz.)can evaporated milk</li>
+          <li>2 cups heavy cream</li>
+          <li>1 tbsp. Dijon mustard</li>
+        </ul>
+
+        <h4>Seasonings</h4>
+        <ul>
+          <li>1 tsp. garlic powder</li>
+          <li>1 tsp. smoked paprika</li>
+        </ul>
+
+    </body>
+
+</html>
