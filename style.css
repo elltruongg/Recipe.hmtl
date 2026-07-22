@@ -12,3 +12,10 @@ title{
     font-family: copperplate;
 }
 
+p{
+  font-size: 65px;
+  color: purple;
+  text-align: center;
+  font-family: Monaco;
+}
+
