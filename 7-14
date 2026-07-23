@@ -10,48 +10,49 @@
     </head>
 
     <body>
-        <h1>A Recipe by Chef Tini</h1>
+        <div class="container">
+            <h1>A Recipe by Chef Tini</h1>
 
-        <p>Tini's mac n cheese started trending during the thanksgiving season in 2023. Something that Tini does differently is using cavatappi pasta, instead of the commonly used elbow pasta. Tini says this provides for a better, creamier bite because of the cheese going through the noodles.</p>
+            <p>Tini's mac n cheese started trending during the thanksgiving season in 2023. Something that Tini does differently is using cavatappi pasta, instead of the commonly used elbow pasta. Tini says this provides for a better, creamier bite because of the cheese going through the noodles.</p>
         
-        <h2>Ingredients</h2>
-        <h3>Pasta and Cheese</h3>
-        <ul>
-            <li>1 lb. Cavatappi pasta</li>
-            <li>16 oz. grated Mozzarella cheese</li>
-            <li>16 oz. grated Colby Jack cheese</li>
-            <li>8 oz. grated Sharp Cheddar cheese</li>
-        </ul>
+            <h2>Ingredients</h2>
+            <h3>Pasta and Cheese</h3>
+            <ul>
+                <li>1 lb. Cavatappi pasta</li>
+                <li>16 oz. grated Mozzarella cheese</li>
+                <li>16 oz. grated Colby Jack cheese</li>
+                <li>8 oz. grated Sharp Cheddar cheese</li>
+            </ul>
 
-        <h4>Roux and Sauce</h4>
-        <ul>
-          <li>3 tbsp. butter</li>
-          <li>3 tbsp. all purpose flour</li>
-          <li>1(12 oz.)can evaporated milk</li>
-          <li>2 cups heavy cream</li>
-          <li>1 tbsp. Dijon mustard</li>
-        </ul>
+            <h4>Roux and Sauce</h4>
+            <ul>
+              <li>3 tbsp. butter</li>
+              <li>3 tbsp. all purpose flour</li>
+              <li>1(12 oz.)can evaporated milk</li>
+              <li>2 cups heavy cream</li>
+              <li>1 tbsp. Dijon mustard</li>
+            </ul>
 
-        <h5>Seasonings</h5>
-        <ul>
-            <li>1 tsp. garlic powder</li>
-            <li>1 tsp. smoked paprika</li>
-            <li>1/2 tsp. salt</li>
-            <li>1/2 tsp. pepper</li>
-        </ul>
+            <h5>Seasonings</h5>
+            <ul>
+                <li>1 tsp. garlic powder</li>
+                <li>1 tsp. smoked paprika</li>
+                <li>1/2 tsp. salt</li>
+                <li>1/2 tsp. pepper</li>
+            </ul>
 
-        <h2>Instructions</h2>
-        <ol>
-            <li>Prep the Cheese and Seasonings: Shred all your cheeses, mix them together in a large bowl, and divide them into two equal portions. Mix your garlic powder, smoked paprika, salt, and pepper in a small prep bowl.</li>
-            <li>Boil the Pasta: Cook the cavatappi in heavily salted boiling water until it is super al dente (about 7 minutes, as it will finish cooking in the oven). Drain and set aside.</li>
-            <li>Make the Roux: Melt the butter in a large skillet or Dutch oven over medium heat. Add half of your seasoning mix and stir. Whisk in the flour and cook for 1-2 minutes until bubbly.</li>
-            <li>Build the Cheese Sauce: Whisk in the evaporated milk and heavy cream, followed by the Dijon mustard and the other half of your seasonings. Bring to a simmer, then stir in half of your shredded cheese mixture a handful at a time, allowing each batch to completely melt before adding more.</li>
-            <li>Combine: Turn off the heat. Add the cooked pasta into the cheese sauce and stir until fully coated.</li>
-            <li>Layer and Bake: Preheat your oven to 350°F. In a 9x13-inch baking dish, layer half of the mac and cheese, top with a third of the remaining cheese, and repeat. Top with the final layer of cheese.</li>
-            <li>Bake: Bake for 25 to 30 minutes until bubbly. Broil for 1 to 2 minutes at the very end to get that golden-brown, crispy top!</li>
+            <h2>Instructions</h2>
+            <ol>
+                <li>Prep the Cheese and Seasonings: Shred all your cheeses, mix them together in a large bowl, and divide them into two equal portions. Mix your garlic powder, smoked paprika, salt, and pepper in a small prep bowl.</li>
+                <li>Boil the Pasta: Cook the cavatappi in heavily salted boiling water until it is super al dente (about 7 minutes, as it will finish cooking in the oven). Drain and set aside.</li>
+                <li>Make the Roux: Melt the butter in a large skillet or Dutch oven over medium heat. Add half of your seasoning mix and stir. Whisk in the flour and cook for 1-2 minutes until bubbly.</li>
+                <li>Build the Cheese Sauce: Whisk in the evaporated milk and heavy cream, followed by the Dijon mustard and the other half of your seasonings. Bring to a simmer, then stir in half of your shredded cheese mixture a handful at a time, allowing each batch to completely melt before adding more.</li>
+                <li>Combine: Turn off the heat. Add the cooked pasta into the cheese sauce and stir until fully coated.</li>
+                <li>Layer and Bake: Preheat your oven to 350°F. In a 9x13-inch baking dish, layer half of the mac and cheese, top with a third of the remaining cheese, and repeat. Top with the final layer of cheese.</li>
+                <li>Bake: Bake for 25 to 30 minutes until bubbly. Broil for 1 to 2 minutes at the very end to get that golden-brown, crispy top!</li>
 
-        </ol>
-
+            </ol>
+        </div>
     </body>
 
 </html>
