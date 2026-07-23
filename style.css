@@ -1,28 +1,38 @@
 h1{
-  font-size: 80px;
+  font-size: 100px;
   color: cyan:
   font-family: copperplate;
   text-align:center;
 }
 
 title{
-    font-size: 115px;
+    font-size: 150px;
     color: blue;
     text-align: center;
     font-family: copperplate;
 }
 
 p{
-  font-size: 65px;
+  font-size: 75px;
   color: purple;
   text-align: center;
   font-family: Monaco;
 }
 
 h2{
-  font-size: 65px;
+  font-size: 85px;
   color: darkgreen:
-  font-family: Monaco;
+  font-family: copperplate;
   text-align:center;
   
+}
+
+h3{
+  font-size: 75px;
+  color: cyan;
+  font-family: copperplate;
+  text-align: right;
+
+
+
 }
