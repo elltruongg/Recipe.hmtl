@@ -1,25 +1,25 @@
-h1{
+.h1{
   font-size: 100px;
   color: cyan:
   font-family: copperplate;
   text-align:center;
 }
 
-title{
+.title{
     font-size: 150px;
     color: blue;
     text-align: center;
     font-family: copperplate;
 }
 
-p{
+.p{
   font-size: 75px;
   color: purple;
   text-align: center;
   font-family: Monaco;
 }
 
-h2{
+.h2{
   font-size: 85px;
   color: darkgreen:
   font-family: copperplate;
@@ -27,14 +27,14 @@ h2{
   
 }
 
-h3{
+.h3{
   font-size: 75px;
   color: cyan;
   font-family: copperplate;
   text-align: right;
 }
 
-h4{
+.h4{
   font-size: 75px;
   color: cyan;
   font-family: copperplate;
@@ -42,7 +42,7 @@ h4{
 
 }
 
-h5{
+.h5{
 font-size: 75px;
   color: cyan;
   font-family: copperplate;
